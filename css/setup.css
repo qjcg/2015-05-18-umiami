@@ -1,0 +1,13 @@
+#setup_windows, #setup_osx, #setup_linux {
+  padding: 1em;
+}
+
+#setup_windows {
+  background-color: lightyellow;
+}
+#setup_osx {
+  background-color: lightblue;
+}
+#setup_linux {
+  background-color: lightpink;
+}
