@@ -1,7 +1,7 @@
-Data Carpentry workshop 30-31 March 2015
+Data Carpentry workshop 18-19 May 2015
 ==================
 ![Data Carpentry logo](https://raw.githubusercontent.com/datacarpentry/logos/master/DC1_logo_small.png "Data Carpentry logo")  
 
 Where: **University of Miami, Coral Gables**  
-When: **30-31 March 2015**  
-[Further details](http://fmichonneau.github.io/2015-03-30-umiami)
+When: **18-19 2015**  
+[Further details](http://qjcg.github.io/2015-05-18-umiami/)
